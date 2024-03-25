@@ -11,6 +11,6 @@ Repositório para armazenar resumos.
 
 | Aulas | Resumos |
 |-------|---------|
-|Gravando alterações | [Resumos]()|
+|Gravando alterações | [Resumo]()|
 
 
