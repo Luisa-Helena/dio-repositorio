@@ -13,7 +13,4 @@ Repositório para armazenar resumos.
 |-------|---------|
 |Gravando alterações | [Resumos]()|
 
-...
-git init
-...
 
